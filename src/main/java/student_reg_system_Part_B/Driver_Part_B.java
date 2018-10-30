@@ -33,7 +33,7 @@ public class Driver_Part_B {
         
         
         Course_Programme ECE4BP = new Course_Programme("Electronic and Computer Engineering");
-        Course_Programme CSIT4CS = new Course_Programme("Computer Science and Informatoin Technology");
+        Course_Programme CSIT4CS = new Course_Programme("Computer Science and Information Technology");
         
          
         MarkGarvey.setCourse(new ArrayList());
