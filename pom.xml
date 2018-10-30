@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.github.MRK132</groupId>
             <artifactId>CT417_Assignment1_Part_A</artifactId>
-            <version>5dc0e4230b914e0563f60029ad9fa79a6f05c828</version>
+            <version>27e6c43422a3aa17091a9cca91f942cf5fc1b868</version>
         </dependency>
         <dependency>
             <groupId>joda-time</groupId>
